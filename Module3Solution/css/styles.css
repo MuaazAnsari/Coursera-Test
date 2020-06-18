@@ -1,7 +1,7 @@
 body {
     font-size: 16px;
     font-family: 'Source Sans Pro', sans-serif;
-    color: #1a1a1a;
+    color: black;
     background-color: #599e4b;
 }
 
@@ -9,7 +9,7 @@ body {
 /** HEADER **/
 
 #header-nav {
-    background-color: #c98715;
+    background-color: yellow;
     border-radius: 0;
     border: 0;
 }
@@ -19,7 +19,7 @@ body {
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #fce29e;
+    background-color: grey;
 }
 
 .navbar-collapse {
@@ -51,7 +51,7 @@ body {
 #nav-list a {
     /*text-align: center;*/
     font-weight: bolder;
-    color: #282828;
+    color: blue;
     font-size: 1.2em;
 }
 
@@ -88,10 +88,10 @@ body {
     margin-bottom: 1em;
 }
 
-#chicken-tile, #beef-tile, #sushi-tile {
+#chicken-tile, #Mutton-tile, #beef-tile {
     width: 100%;
     padding: 20px;
-    background-color: #99ed7b;
+    background-color: white;
     margin-bottom: 60px;
     box-shadow: 0 0 80px #18580b;
 }
