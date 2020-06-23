@@ -29,3 +29,10 @@ for (var i = 0; i < names.length; i++) {
 
 })();
 
+byeSpeaker = (name) => {
+  console.log("GoodBye ",name);
+}
+
+helloSpeaker = (name) => {
+  console.log("Hello ",name);
+}
