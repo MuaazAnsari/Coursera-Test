@@ -1,3 +1,3 @@
-const byeSpeaker = (name) {
+window.byeSpeaker = (name) => {
   console.log("GoodBye ",name);
 }
